@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ClimateQ&amp;A Blog</title>
+        <link>https://climateqa.com/blog</link>
+        <description>ClimateQ&amp;A Blog</description>
+        <lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[ClimateQ&A now features image interpretation]]></title>
+            <link>https://climateqa.com/blog/multimodality</link>
+            <guid>https://climateqa.com/blog/multimodality</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[ClimateQ&A version 1.3 introduces a new feature that enhances explanations with relevant images, significantly improving the interpretation of complex scientific reports from sources like the IPCC and IPBES. This feature, still in its experimental phase, leverages multimodal Large Language Models (LLMs) to index image descriptions into a search engine.]]></description>
+            <category>ClimateQ&amp;A</category>
+            <category>Multi-modality</category>
+        </item>
+    </channel>
+</rss>

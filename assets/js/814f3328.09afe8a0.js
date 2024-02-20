@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclimateqa=self.webpackChunkclimateqa||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"ClimateQ&A now features image interpretation","permalink":"/blog/multimodality","unlisted":false}]}')}}]);

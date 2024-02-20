@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://climateqa.com/blog</id>
+    <title>ClimateQ&amp;A Blog</title>
+    <updated>2024-02-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://climateqa.com/blog"/>
+    <subtitle>ClimateQ&amp;A Blog</subtitle>
+    <icon>https://climateqa.com/img/logo_climateqa.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ClimateQ&A now features image interpretation]]></title>
+        <id>https://climateqa.com/blog/multimodality</id>
+        <link href="https://climateqa.com/blog/multimodality"/>
+        <updated>2024-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ClimateQ&A version 1.3 introduces a new feature that enhances explanations with relevant images, significantly improving the interpretation of complex scientific reports from sources like the IPCC and IPBES. This feature, still in its experimental phase, leverages multimodal Large Language Models (LLMs) to index image descriptions into a search engine.]]></summary>
+        <author>
+            <name>Théo ALVES DA COSTA</name>
+            <uri>theo.alvesdacosta@ekimetrics.com</uri>
+        </author>
+        <category label="ClimateQ&A" term="ClimateQ&A"/>
+        <category label="Multi-modality" term="Multi-modality"/>
+    </entry>
+</feed>
