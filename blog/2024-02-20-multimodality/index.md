@@ -69,7 +69,7 @@ Summary:
 This is an initial, still experimental feature, but the results are already satisfactory enough to continue work in this direction. Our next steps to improve this feature include:
 
 - Expanding the number of images covered; currently, not all images are analyzed.
+- Better integrate images in the response and return several images.
 - Moving to an open-source model like LLaVA to experiment more quickly and allow for easier replication of experiments.
 - Directly indexing figures indexed by the IPCC (e.g., https://www.ipcc.ch/report/ar6/syr/figures/).
-- Better integrate images in the response and return several images.
 - Improving the caption identification of our detection model.
