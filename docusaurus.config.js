@@ -16,12 +16,12 @@ const config = {
   url: 'https://climateqa.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/climateqa_docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ekimetrics', // Usually your GitHub org/user name.
-  projectName: 'climateqa_docs', // Usually your repo name.
+  organizationName: 'climateqa', // Usually your GitHub org/user name.
+  projectName: 'climateqa.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
