@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkclimateqa=self.webpackChunkclimateqa||[]).push([[267],{8289:a=>{a.exports=JSON.parse('[{"label":"ClimateQ&A","permalink":"/blog/tags/climate-q-a","count":1},{"label":"Multi-modality","permalink":"/blog/tags/multi-modality","count":1}]')}}]);

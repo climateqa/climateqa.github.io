@@ -4,10 +4,19 @@
         <title>ClimateQ&amp;A Blog</title>
         <link>https://climateqa.com/blog</link>
         <description>ClimateQ&amp;A Blog</description>
-        <lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ClimateQ&A v1.4 now has access to 250 million research papers from OpenAlex.org]]></title>
+            <link>https://climateqa.com/blog/openalex</link>
+            <guid>https://climateqa.com/blog/openalex</guid>
+            <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[ClimateQ&A version 1.4 introduces an experimental feature with the access to OpenAlex.org, providing users with over 250 million scientific papers in addition to existing IPCC and IPBES reports. This update responds to the demand for wider access to recent scientific research, allowing for exploration of topics not covered in standard reports. The feature includes algorithms for searching, ranking, and summarizing relevant papers, aiming to facilitate direct access to current scientific knowledge.]]></description>
+            <category>ClimateQ&amp;A</category>
+            <category>OpenAlex.org</category>
+        </item>
         <item>
             <title><![CDATA[ClimateQ&A now features image interpretation]]></title>
             <link>https://climateqa.com/blog/multimodality</link>
