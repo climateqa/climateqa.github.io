@@ -23,6 +23,8 @@ const config = {
   organizationName: 'climateqa', // Usually your GitHub org/user name.
   projectName: 'climateqa.github.io', // Usually your repo name.
 
+  deploymentBranch: 'gh-pages',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
