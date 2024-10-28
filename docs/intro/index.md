@@ -13,11 +13,11 @@ However, comprehending the vast and complex scientific information can be daunti
 
 :::tip[How does ClimateQ&A work?]
 
-ClimateQ&A harnesses modern OCR techniques to parse and preprocess IPCC reports. By leveraging state-of-the-art question-answering algorithms, ClimateQ&A is able to sift through the extensive collection of climate scientific reports and identify relevant passages in response to user inquiries. Furthermore, the integration of the ChatGPT API allows ClimateQ&A to present complex data in a user-friendly manner, summarizing key points and facilitating communication of climate science to a wider audience.
+ClimateQ&A harnesses modern OCR techniques to parse and preprocess IPCC reports. By leveraging state-of-the-art question-answering algorithms, ClimateQ&A is able to sift through the extensive collection of climate scientific reports and identify relevant passages in response to user inquiries. Furthermore, the integration of LLM APIs allows ClimateQ&A to present complex data in a user-friendly manner, summarizing key points and facilitating communication of climate science to a wider audience.
 
 :::
 
-![](./ar6.png)
+![](ar6.png)
 > *Figure SPM.1 - IPCC AR6 - Synthesis Report of the IPCC 6th assessment report (AR6)*
 
 ## Getting started

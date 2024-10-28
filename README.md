@@ -1,9 +1,12 @@
-# Website
+# ClimateQ&A front website. 
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+The website is simply hosting the Hugging Face Space version as an embed in the front page. And the rest of the website is to document how ClimateQ&A works. 
+https://huggingface.co/spaces/Ekimetrics/climate-question-answering 
 
 ### Installation
 
+Properly install Node.js and Yarn
 ```
 $ yarn
 ```

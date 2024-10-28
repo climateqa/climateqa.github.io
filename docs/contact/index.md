@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Contact & feature requests
+# Contact
 
 
 For any question or press request, contact [Théo Alves Da Costa](mailto:theo.alvesdacosta@ekimetrics.com)

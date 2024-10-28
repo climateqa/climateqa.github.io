@@ -83,8 +83,23 @@ const config = {
           },
           {to: '/docs/sources', label: 'Sources', position: 'left'},
           {to: '/docs/contact', label: 'Contact', position: 'left'},
-          {to: '/docs/category/changelog', label: 'Changelog', position: 'left'},
+          {to: '/docs/feedbacks', label: 'Feedbacks', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'dropdown',
+            label: 'v1.5.0',
+            position: 'right',
+            items: [
+              {
+                label: 'v1.5.0',
+                to: '/docs/changelog/v1.5.0/',
+              },
+              {
+                label: 'v1.4.0',
+                to: '/docs/changelog/v1.4.0/',
+              },
+            ],
+          },
           {
             href: 'https://huggingface.co/spaces/Ekimetrics/climate-question-answering/tree/main',
             label: 'GitHub',
