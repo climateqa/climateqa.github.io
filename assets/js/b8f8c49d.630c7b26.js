@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkclimateqa=self.webpackChunkclimateqa||[]).push([[457],{3275:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/open-alex-org","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

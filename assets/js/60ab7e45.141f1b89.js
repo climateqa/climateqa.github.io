@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkclimateqa=self.webpackChunkclimateqa||[]).push([[557],{6564:e=>{e.exports=JSON.parse('{"label":"OpenAlex.org","permalink":"/blog/tags/open-alex-org","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

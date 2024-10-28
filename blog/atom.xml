@@ -21,6 +21,19 @@
         <category label="OpenAlex.org" term="OpenAlex.org"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Our first research paper on the meta-analysis of our user questions]]></title>
+        <id>https://climateqa.com/blog/paper</id>
+        <link href="https://climateqa.com/blog/paper"/>
+        <updated>2024-03-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta-analysis of the first 3500 questions asked to ClimateQ&A. This research paper investigates public views on climate change and biodiversity loss by analyzing questions asked to the ClimateQ&A platform.]]></summary>
+        <author>
+            <name>Théo ALVES DA COSTA</name>
+            <uri>theo.alvesdacosta@ekimetrics.com</uri>
+        </author>
+        <category label="ClimateQ&A" term="ClimateQ&A"/>
+        <category label="OpenAlex.org" term="OpenAlex.org"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ClimateQ&A now features image interpretation]]></title>
         <id>https://climateqa.com/blog/multimodality</id>
         <link href="https://climateqa.com/blog/multimodality"/>

@@ -18,6 +18,15 @@
             <category>OpenAlex.org</category>
         </item>
         <item>
+            <title><![CDATA[Our first research paper on the meta-analysis of our user questions]]></title>
+            <link>https://climateqa.com/blog/paper</link>
+            <guid>https://climateqa.com/blog/paper</guid>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Meta-analysis of the first 3500 questions asked to ClimateQ&A. This research paper investigates public views on climate change and biodiversity loss by analyzing questions asked to the ClimateQ&A platform.]]></description>
+            <category>ClimateQ&amp;A</category>
+            <category>OpenAlex.org</category>
+        </item>
+        <item>
             <title><![CDATA[ClimateQ&A now features image interpretation]]></title>
             <link>https://climateqa.com/blog/multimodality</link>
             <guid>https://climateqa.com/blog/multimodality</guid>
