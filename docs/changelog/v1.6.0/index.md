@@ -17,7 +17,7 @@ We've introduced several key features that make climate research more intuitive 
 - **Improved Source Prioritization**
     - Modified retriever to prioritize IPCC Summary for Policymakers
     - Ensures global, high-level insights before diving into technical details
-    - Implemented parallel search mechanisms
+    - Implemented parallel search mechanisms for documents and graphs
 - **UI/UX Changes**
     - Added a "Recommended content" tab for elements that are not used by the chatbot
     - Added notification dynamic to highlight retrieved documents
@@ -96,6 +96,12 @@ Provides a list of the relevant papers retrieved from the query.
 Provides a citation network of the relevant papers retrieved from the query.
 ![image.png](image_papers_5.png)
 
+## Focus Workflow update 
+
+The workflow has been updated to retrieve simultanously documents and OWID graphs.
+Papers search is currently handled in a separate workflow with gradio
+
+![image.png](image_1_workflow.png)
 
 ## Coming next: Version 1.7
 
