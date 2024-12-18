@@ -87,9 +87,13 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'dropdown',
-            label: 'v1.5.0',
+            label: 'v1.6.0',
             position: 'right',
             items: [
+              {
+                label: 'v1.6.0',
+                to: '/docs/changelog/v1.6.0/',
+              },
               {
                 label: 'v1.5.0',
                 to: '/docs/changelog/v1.5.0/',
