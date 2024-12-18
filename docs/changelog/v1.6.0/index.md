@@ -2,7 +2,7 @@
 sidebar_position: 93
 ---
 
-# v1.6.0 - 2023-12-18
+# v1.6.0 - 2024-12-18
 
 
 ## Introduction
