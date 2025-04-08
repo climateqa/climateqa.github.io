@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.1.1">
 <title data-rh="true">v1.7.0 - 2025-04-08 | ClimateQ&amp;A</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://climateqa.com/img/screenshots/multimodal1.png"><meta data-rh="true" name="twitter:image" content="https://climateqa.com/img/screenshots/multimodal1.png"><meta data-rh="true" property="og:url" content="https://climateqa.com/docs/changelog/v1.7.0/"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="v1.7.0 - 2025-04-08 | ClimateQ&amp;A"><meta data-rh="true" name="description" content="Introduction"><meta data-rh="true" property="og:description" content="Introduction"><link data-rh="true" rel="icon" href="/img/logo_climateqa.png"><link data-rh="true" rel="canonical" href="https://climateqa.com/docs/changelog/v1.7.0/"><link data-rh="true" rel="alternate" href="https://climateqa.com/docs/changelog/v1.7.0/" hreflang="en"><link data-rh="true" rel="alternate" href="https://climateqa.com/docs/changelog/v1.7.0/" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="ClimateQ&amp;A RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="ClimateQ&amp;A Atom Feed"><link rel="stylesheet" href="/assets/css/styles.454c9aff.css">
-<script src="/assets/js/runtime~main.7f94b8fc.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.08d85a52.js" defer="defer"></script>
 <script src="/assets/js/main.7692ebb5.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -201,34 +201,43 @@ Four visualization types available:</p>
 <li>
 <p><strong>Backend Improvements</strong></p>
 <ul>
-<li>Enhanced query processing</li>
-<li>Optimized data retrieval</li>
-<li>Improved caching system</li>
+<li>Implemented context-aware questioning system that maintains conversation history</li>
+<li>Added intelligent follow-up question generation</li>
+<li>Enhanced query processing for local and global climate data retrieval</li>
 </ul>
 </li>
 <li>
 <p><strong>Frontend Enhancements</strong></p>
 <ul>
-<li>Responsive visualization components</li>
-<li>Streamlined user interface</li>
-<li>Improved mobile compatibility</li>
+<li>Added dynamic visualization components for DRIAS climate data</li>
+<li>Implemented interactive tables for data exploration</li>
 </ul>
 </li>
 <li>
-<p><strong>Data Pipeline Updates</strong></p>
+<p><strong>Data Updates</strong></p>
 <ul>
-<li>Real-time data integration</li>
-<li>Automated validation checks</li>
-<li>Enhanced error handling</li>
+<li>Integrated local climate data sources for Paris and Nouvelle Aquitaine regions</li>
+<li>Added DRIAS TRACC data integration with multiple visualization types</li>
 </ul>
 </li>
 </ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="workflow-updates">Workflow Updates<a href="#workflow-updates" class="hash-link" aria-label="Direct link to Workflow Updates" title="Direct link to Workflow Updates">​</a></h2>
+<p>The workflow has been significantly enhanced to handle both global and local climate questions through specialized processing pipelines:</p>
+<ol>
+<li><strong>Global QA Pipeline</strong></li>
+</ol>
+<p><img decoding="async" loading="lazy" alt="Global Workflow" src="/assets/images/image_langgraph_global-bde2952bcdf4eb191eb95e64aed1ec2b.png" width="893" height="1027" class="img_ev3q"></p>
+<ol start="2">
+<li><strong>Local QA Pipeline</strong></li>
+</ol>
+<p><img decoding="async" loading="lazy" alt="Local Workflow" src="/assets/images/image_langgraph_local-6d0b5185f8a401dc815ff70d99f7c776.png" width="899" height="1027" class="img_ev3q"></p>
+<p>These parallel pipelines enable more precise and contextually relevant responses while maintaining the dynamic conversation capabilities introduced in this release.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="coming-next-version-18">Coming Next: Version 1.8<a href="#coming-next-version-18" class="hash-link" aria-label="Direct link to Coming Next: Version 1.8" title="Direct link to Coming Next: Version 1.8">​</a></h2>
 <p>Our next release will focus on:</p>
 <ul>
 <li>Expanding local coverage</li>
 <li>Enhanced dynamic visualization capabilities</li>
 </ul>
-<p>[Future version details to be announced]</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/category/changelog"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Changelog</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/docs/changelog/v1.6.0/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">v1.6.0 - 2024-12-18</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#introduction" class="table-of-contents__link toc-highlight">Introduction</a><ul><li><a href="#main-features" class="table-of-contents__link toc-highlight">Main features:</a></li></ul></li><li><a href="#focus-dynamic-conversation" class="table-of-contents__link toc-highlight">Focus: Dynamic Conversation</a><ul><li><a href="#1-context-aware-questioning" class="table-of-contents__link toc-highlight">1. Context-Aware Questioning</a></li><li><a href="#2-smart-follow-up-suggestions" class="table-of-contents__link toc-highlight">2. Smart Follow-up Suggestions</a></li></ul></li><li><a href="#focus-local-qa" class="table-of-contents__link toc-highlight">Focus: Local QA</a><ul><li><a href="#data-sources" class="table-of-contents__link toc-highlight">Data Sources</a></li><li><a href="#key-use-cases" class="table-of-contents__link toc-highlight">Key Use Cases</a></li><li><a href="#global-to-local-climate-insights" class="table-of-contents__link toc-highlight">Global to Local Climate Insights</a></li><li><a href="#region-specific-analysis" class="table-of-contents__link toc-highlight">Region-Specific Analysis</a></li></ul></li><li><a href="#focus-talk-to-drias" class="table-of-contents__link toc-highlight">Focus: Talk To Drias</a><ul><li><a href="#interface-walkthrough" class="table-of-contents__link toc-highlight">Interface Walkthrough</a></li></ul></li><li><a href="#technical-updates" class="table-of-contents__link toc-highlight">Technical Updates</a></li><li><a href="#coming-next-version-18" class="table-of-contents__link toc-highlight">Coming Next: Version 1.8</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer"><div class="container container-fluid"></div></footer></div>
+<p>[Future version details to be announced]</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/category/changelog"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Changelog</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/docs/changelog/v1.6.0/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">v1.6.0 - 2024-12-18</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#introduction" class="table-of-contents__link toc-highlight">Introduction</a><ul><li><a href="#main-features" class="table-of-contents__link toc-highlight">Main features:</a></li></ul></li><li><a href="#focus-dynamic-conversation" class="table-of-contents__link toc-highlight">Focus: Dynamic Conversation</a><ul><li><a href="#1-context-aware-questioning" class="table-of-contents__link toc-highlight">1. Context-Aware Questioning</a></li><li><a href="#2-smart-follow-up-suggestions" class="table-of-contents__link toc-highlight">2. Smart Follow-up Suggestions</a></li></ul></li><li><a href="#focus-local-qa" class="table-of-contents__link toc-highlight">Focus: Local QA</a><ul><li><a href="#data-sources" class="table-of-contents__link toc-highlight">Data Sources</a></li><li><a href="#key-use-cases" class="table-of-contents__link toc-highlight">Key Use Cases</a></li><li><a href="#global-to-local-climate-insights" class="table-of-contents__link toc-highlight">Global to Local Climate Insights</a></li><li><a href="#region-specific-analysis" class="table-of-contents__link toc-highlight">Region-Specific Analysis</a></li></ul></li><li><a href="#focus-talk-to-drias" class="table-of-contents__link toc-highlight">Focus: Talk To Drias</a><ul><li><a href="#interface-walkthrough" class="table-of-contents__link toc-highlight">Interface Walkthrough</a></li></ul></li><li><a href="#technical-updates" class="table-of-contents__link toc-highlight">Technical Updates</a></li><li><a href="#workflow-updates" class="table-of-contents__link toc-highlight">Workflow Updates</a></li><li><a href="#coming-next-version-18" class="table-of-contents__link toc-highlight">Coming Next: Version 1.8</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer"><div class="container container-fluid"></div></footer></div>
 </body>
 </html>
