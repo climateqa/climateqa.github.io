@@ -22,6 +22,14 @@ We've introduced several key features that make climate research more intuitive 
     - Added a "Recommended content" tab for elements that are not used by the chatbot
     - Added notification dynamic to highlight retrieved documents
     - Updated configuration panel and added standalone search mode
+- **Added the two last reports from IPBES**
+    - ["Nexus Assessment Report"](https://ipbes.canto.de/pdfviewer/viewer/viewer.html?v=IPBES11Media&portalType=v%2FIPBES11Media&column=document&id=cj0uc5396d1ed5418tsuic2r45&suffix=pdf&print=1) : Summary for policymakers of the thematic assessment of the interlinkages
+among biodiversity, water, food and health (nexus assessment) of the
+Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem
+Services 
+    - ["Transformative Change Assessment Report"](https://ipbes.canto.de/pdfviewer/viewer/viewer.html?v=IPBES11Media&portalType=v%2FIPBES11Media&column=document&id=b60nsr7j1h44bb2o9ivm68dt4i&suffix=pdf&print=1) : Summary for policymakers of the thematic assessment of the underlying causes
+of biodiversity loss and the determinants of transformative change and options
+for achieving the 2050 Vision for Biodiversity
 
 ## Focus: Our World in Data - Visual Insights
 
